@@ -6,8 +6,10 @@ This section assumes that you have your <ip_address> and <password> from your lo
 
 **Galaxy** – if you aren’t comfortable with the command line, **try this option first!**.
 1. In a modern web browser (i.e. not Internet Explorer) navigate to <ip_address>/galaxy
+
 2. Register for an account within Galaxy by going to 'User' in the top menu bar. Make a note of your username and password. This will allow you to save your progress between sessions. If you don't register an account, your work will be deleted within a day or two.
-2. There are loads of galaxy tutorials available from [the galaxy project wiki], as well as the [ABPRI] website, which is aimed at microbial genomics.
+
+3. There are loads of galaxy tutorials available from [the galaxy project wiki], as well as the [ABPRI] website, which is aimed at microbial genomics.
 
 **ssh on windows** - if you are comfortable with the command line and have a windows computer
 1. Install [putty] followed by [mputty], you then have to point mputty to the putty.exe file via the 'Tools' menu of mputty. (This is because mputty is a wrapper for putty, so it needs putty installed as well, and it needs to know how to find it).
