@@ -5,6 +5,7 @@
 This section assumes that you have your <ip_address> and <password> from your local CLIMB super user. You can access your machine in a variety of ways, the main two of which are detailed below. 
 
 **Galaxy** – if you aren’t comfortable with the command line, **try this option first!**.
+
 1. In a modern web browser (i.e. not Internet Explorer) navigate to <ip_address>/galaxy
 
 2. Register for an account within Galaxy by going to 'User' in the top menu bar. Make a note of your username and password. This will allow you to save your progress between sessions. If you don't register an account, your work will be deleted within a day or two.
