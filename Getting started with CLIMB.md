@@ -2,11 +2,11 @@
 
 ### Accessing your machine
 
-This section assumes that you have your <ip_address> and <password> from your local CLIMB super user. You can access your machine in a variety of ways, the main two of which are detailed below. 
+This section assumes that you have your `<ip_address>` and `<password>` from your local CLIMB super user. You can access your machine in a variety of ways, the main two of which are detailed below. 
 
 **Galaxy** – if you aren’t comfortable with the command line, **try this option first!**.
 
-1. In a modern web browser (i.e. not Internet Explorer) navigate to <ip_address>/galaxy
+1. In a modern web browser (i.e. not Internet Explorer) navigate to `<ip_address>/galaxy`
 
 2. Register for an account within Galaxy by going to 'User' in the top menu bar. Make a note of your username and password. This will allow you to save your progress between sessions. If you don't register an account, your work will be deleted within a day or two.
 
@@ -16,15 +16,15 @@ This section assumes that you have your <ip_address> and <password> from your lo
 
 1. Install [putty] followed by [mputty], you then have to point mputty to the putty.exe file via the 'Tools' menu of mputty. (This is because mputty is a wrapper for putty, so it needs putty installed as well, and it needs to know how to find it).
 
-2. In the 'Server' menu, go to 'Server name', put in your <ip_address>, put 'ubuntu' as your username and enter your password, then press 'OK'.
+2. In the 'Server' menu, go to 'Server name', put in your `<ip_address>`, put 'ubuntu' as your username and enter your password, then press 'OK'.
 
-3. Your <ip_address> should show up on the right hand side, double click on it. It will open a new tab in mputty, although you may need to put your password in again. You have to type it in, copy and paste does not seem to work.
+3. Your `<ip_address>` should show up on the right hand side, double click on it. It will open a new tab in mputty, although you may need to put your password in again. You have to type it in, copy and paste does not seem to work.
 
 **ssh on mac** - if you are comfortable on the command line and have an Apple computer
 
 1. Open the terminal application
 
-2. type `ssh ubuntu@<ip_address>` (replace <ip_address> with the ip address of your CLIMB machine.
+2. type `ssh ubuntu@<ip_address>` (replace `<ip_address>` with the ip address of your CLIMB machine.
 
 3. Enter your password when prompted
 
