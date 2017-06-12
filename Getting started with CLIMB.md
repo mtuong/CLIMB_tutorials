@@ -34,7 +34,7 @@ There are a variety of options for transferring data to your machine in the clou
 
 **galaxy** - If you are using Galaxy, it has an inbuilt way of uploading data that will be covered by any online introductory tutorial.
 
-**`scp`**  - if you choose this option I assume you already know what you are doing
+**`scp`**  - if you choose this option I assume you already know what you are doing. The path to your home directory on the GVL machine is /home/ubuntu
 
 **FileZilla** - to transfer so that you can manipulate data on the command line on your cloud machine. You can’t reliably transfer large files over the web (i.e. HTTP, hyper text transfer protocol) so we use an alternative ‘type’ of internet called FTP (file transfer protocol). In exactly the same way that you have HTTP browsers for looking at the web, like Chrome and Internet Explorer, you have FTP ‘browsers’ for transferring data. FileZilla is the most popular of these browsers.
 
